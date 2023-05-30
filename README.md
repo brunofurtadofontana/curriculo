@@ -18,6 +18,7 @@ Meu currículo
 <a href="https://instagram.com/br.fontana" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/br.fontana" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/br.fontana" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+<a href="https://instagram.com/br.fontana" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
 </div>
 
 ## Contatos:
