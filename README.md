@@ -9,6 +9,16 @@ Meu currículo
 - 👯 Estou procurando colaborar com a comunidade de tecnologia da informação.
 - 💬 Pergunte-me sobre Tecnologias emergentes.
 
+## Skilss:
+<div>
+<a href="https://instagram.com/br.fontana" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/br.fontana" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/br.fontana" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/br.fontana" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/br.fontana" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/br.fontana" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+</div>
+
 ## Contatos:
 
 <div>
