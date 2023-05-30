@@ -17,4 +17,5 @@ Meu currículo
 <a href="https://www.twitter.com/furtadocco" target="_blank"><img src="https://img.shields.io/badge/Twitter-0099cc?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto:bruno@levelupsistemas.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bruno-furtado-fontana-78198550" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/bruno-furtado-fontana-78198550" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
