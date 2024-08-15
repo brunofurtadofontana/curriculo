@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Bruno Furtado Fontana 
-<div style="height:80em">
+<div style="height:80px">
 ![brunofurtadofontana's Stats](https://github-readme-stats.vercel.app/api?username=brunofurtadofontana&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![brunofurtadofontana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofurtadofontana&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </div>
