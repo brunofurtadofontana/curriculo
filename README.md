@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Bruno Furtado Fontana 
-
+![brunofurtadofontana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofurtadofontana&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 # Currículo
 Meu currículo
 
